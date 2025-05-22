@@ -10,6 +10,12 @@ The data analysis part will analyze four areas of the blockchain:
 The analysis using R provides an overview of the blockchain.
 
 The visualization is as follow: \
+
+Main dashboard \
+![Screen Shot 2018-11-19 at 4 19 51 PM](https://github.com/user-attachments/assets/49941449-a508-444d-a247-e7bcb685eab7)
+
+
+
 ![acct_per_creator1](https://github.com/user-attachments/assets/3226be5f-384b-4558-a1ff-7af89dcc549f)
 
 ![acct_per_creator2](https://github.com/user-attachments/assets/c56a924b-2232-40bb-a6ff-2797799a3b6e)
