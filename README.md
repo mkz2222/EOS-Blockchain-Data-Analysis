@@ -9,7 +9,9 @@ The data analysis part will analyze four areas of the blockchain:
 4.	All the current block producers (Blockchain validators).
 The analysis using R provides an overview of the blockchain.
 
-The visualization is as follow: \
+More detail please check out this post on Medium: https://medium.com/@eostreeio/announcing-eos-tree-an-eos-account-explorer-3a3997a8e638
+
+The visualization is as follow: 
 
 Main dashboard \
 ![Screen Shot 2018-11-19 at 4 19 51 PM](https://github.com/user-attachments/assets/49941449-a508-444d-a247-e7bcb685eab7)
