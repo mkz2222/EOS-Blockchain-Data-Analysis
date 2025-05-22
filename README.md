@@ -9,7 +9,7 @@ The data analysis part will analyze four areas of the blockchain:
 4.	All the current block producers (Blockchain validators).
 The analysis using R provides an overview of the blockchain.
 
-The visualization is as follow:
+The visualization is as follow: \
 ![acct_per_creator1](https://github.com/user-attachments/assets/3226be5f-384b-4558-a1ff-7af89dcc549f)
 
 ![acct_per_creator2](https://github.com/user-attachments/assets/c56a924b-2232-40bb-a6ff-2797799a3b6e)
@@ -20,10 +20,10 @@ The visualization is as follow:
 
 ![voter_pie_2](https://github.com/user-attachments/assets/5978c947-a1d1-48a3-9255-2fdd076e98ab)
 
-The Python libraries used are:
-•	Pandas
-•	Numpy
-•	Mysql.connector
-•	Eosapi 
+The Python libraries used are:\
+•	Pandas\
+•	Numpy\
+•	Mysql.connector\
+•	Eosapi\
 •	Requests
 
